@@ -1,1 +1,0 @@
-$ mmkdir jekyll-demo
